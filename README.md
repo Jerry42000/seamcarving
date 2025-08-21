@@ -11,3 +11,5 @@ This project implements seam carving in C: it computes per-pixel energy from ima
 -->Compute energy from horizontal/vertical color differences (image gradient).
 
 -->Accumulate the minimum seam cost with DP down the image, pick the lowest-cost end, backtrack to recover the path, remove those pixels, and stitch the image back together; repeat.
+
+![download](https://github.com/user-attachments/assets/0cf62752-0d29-469d-b123-e1d1fe2c4b9e)
